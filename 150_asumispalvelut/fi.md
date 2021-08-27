@@ -74,3 +74,5 @@ Palvelujen sisältö ja hinnoittelu tulee ilmoittaa selvästi ja etukäteen asia
 ## Muu lyhytaikainen asuminen tai palveluasuminen
 
 Ikääntynyt kuntalainen saattaa tarvita tavanomaisen vuokra-asunnon esim. putkiremontin ajaksi. Usein asunnolta edellytetään esteettömyyttä, minkä vuoksi tilapäiseksi asunnoksi ei voi valita mitä tahansa asuntoa.  Silti tilapäiseen käyttöön osoitettavia asuntoja voi tarjota edelleen asiakkaille tarjottavaksi.
+
+Testing
