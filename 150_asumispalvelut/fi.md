@@ -69,7 +69,7 @@ Päiväkeskuspalveluiden tavoitteena on luoda osallistumisen ja sosiaalisen vuor
 
 Vaatimuksena päiväkeskuspalvelujen toteutukselle ovat esteettömät tilat, joissa tilavaatimukset täyttyvät toiminnalle asetetut yleiset ja erityiset vaatimukset (Valvira, Avi).
 
-Palvelujen sisältö ja hinnoittelu tulee ilmoittaa selvästi ja etukäteen asiakkaille.
+Palvelujen sisältö ja hinnoittelu tulee ilmoittaa selvästi ja etukäteen asiakkaille...
 
 ## Muu lyhytaikainen asuminen tai palveluasuminen
 
